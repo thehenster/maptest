@@ -1,1 +1,1 @@
-import './loadMap';
+export { default as loadMap } from './loadMap'
